@@ -1,5 +1,3 @@
-From this project so far, I've learned:
+Rock, paper, scissors
 
-How to utilize arrays
-How to use a for loop
-Function scope
+
